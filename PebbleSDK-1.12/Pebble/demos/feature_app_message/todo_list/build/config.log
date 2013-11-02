@@ -1,0 +1,18 @@
+# project  configured on Wed Jul  3 15:38:51 2013 by
+# waf 1.7.0 (abi 98, python 20702f0 on darwin)
+# using ./waf configure
+#
+----------------------------------------
+Setting top to
+/Users/thomas/work-pebble/pebblesdk-generator/pebblekit-watch-examples/demos/feature_app_message/todo_list
+----------------------------------------
+Setting out to
+/Users/thomas/work-pebble/pebblesdk-generator/pebblekit-watch-examples/demos/feature_app_message/todo_list/build
+----------------------------------------
+Checking for program gcc,cc
+arm-none-eabi-gcc
+find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
+----------------------------------------
+Checking for program ar
+arm-none-eabi-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-ar'
