@@ -5,7 +5,7 @@
 
 #define MY_UUID { 0x25, 0x8B, 0xC8, 0x23, 0xAC, 0x03, 0x43, 0x2D, 0xAC, 0x7F, 0xC8, 0x8B, 0xD6, 0x91, 0xD4, 0xEA }
 PBL_APP_INFO(MY_UUID,
-             "Template App", "Your Company",
+             "Template App", "Jeff Drake",
              1, 0, /* App version */
              DEFAULT_MENU_ICON,
              APP_INFO_STANDARD_APP);
